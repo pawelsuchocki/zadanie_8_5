@@ -1,5 +1,5 @@
 var a = prompt('Podaj dlugosc boku trojakat'),
-	h = prompt('Podaj wysokosć trojkata'),;
+	h = prompt('Podaj wysokosć trojkata');
 
  var triangleArea = a * h / 2;
 
