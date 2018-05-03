@@ -1,8 +1,6 @@
-var a = 2,
-	h = 4,
-	triangleArea = 'area';
+var a = prompt('Podaj dlugosc boku trojakat'),
+	h = prompt('Podaj wysokosć trojkata'),;
 
-triangleArea = a * h / 2;
+ var triangleArea = a * h / 2;
 
 console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
-
